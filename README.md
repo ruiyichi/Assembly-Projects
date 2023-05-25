@@ -1,4 +1,4 @@
-# Assembly Projects for CISC 211 at Mesa College
+# Assembly Projects for CISC 211
 
 Labs using VisUAL2:\
 Lab 6: Unpacking Signed 16b Numbers From a 32b Word\
